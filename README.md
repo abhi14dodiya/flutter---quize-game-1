@@ -2,15 +2,8 @@
 
 A new Flutter application.
 
-## Getting Started
+This is example of how to change state and we can even deploy signs of each question.
 
-This project is a starting point for a Flutter application.
+# screen shots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="screensht/Screenshot1.jpg",height="500">,<img src="screensht/Screenshot2.jpg",height="500">
